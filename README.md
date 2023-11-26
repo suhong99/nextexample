@@ -6,7 +6,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 ## 위 과정을 통해 next.js 튜토리얼 학습
 
-https://ungumungum.tistory.com/61  (1~4)
-https://ungumungum.tistory.com/62  (5~8)
-https://ungumungum.tistory.com/63  (9~12)
-https://ungumungum.tistory.com/64  (13~16)
+https://ungumungum.tistory.com/61  (1에서 4)
+
+https://ungumungum.tistory.com/62  (5에서 8)
+
+https://ungumungum.tistory.com/63  (9에서 12)
+
+https://ungumungum.tistory.com/64  (13에서 16)
