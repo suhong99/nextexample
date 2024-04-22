@@ -4,6 +4,7 @@ import clsx from 'clsx';
 export default function InvoiceStatus({ status }: { status: string }) {
   return (
     <span
+      // clsx를 활용한 동적 스타일링
       className={clsx(
         'inline-flex items-center rounded-full px-2 py-1 text-xs',
         {
